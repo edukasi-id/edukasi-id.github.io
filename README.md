@@ -1,13 +1,1 @@
-User-agent: *
-Allow: /
 
-Sitemap: https://edukasi-id.github.io/sitemap.xml
-
-User-agent: Googlebot
-Allow: /
-
-User-agent: Googlebot-Mobile
-Allow: /
-
-User-agent: Googlebot-Image
-Allow: /
